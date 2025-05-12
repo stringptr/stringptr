@@ -1,4 +1,4 @@
-<div align="center" class="flex-col">
+<div align="center" class="flex-col w-full">
     <h2>Currently Learning</h2>
     <div class="flex-wrap">
         <h3>Software Programming</h3>
