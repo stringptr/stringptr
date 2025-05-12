@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/NEXT-black?style=for-the-badge&logo=next.js"></img>
     </div>
     <div class="flex-row">
-        <img src="https://img.shields.io/badge/SQLSERVER-black?style=for-the-badge&logo=sqlserver"></img>
+        <img src="https://img.shields.io/badge/SQLSERVER-white?style=for-the-badge&logo=sqlserver"></img>
     </div>
 </div>
 
