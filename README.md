@@ -15,7 +15,7 @@
     <div class="flex-row">
         <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"></img>
         <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css"></img>
-        <img src="https://img.shields.io/badge/JAVASCRIPT-darkyellow?style=for-the-badge&logo=javascript"></img>
+        <img src="https://img.shields.io/badge/JAVASCRIPT-lightyellow?style=for-the-badge&logo=javascript"></img>
         <img src="https://img.shields.io/badge/TYPESCRIPT-lightblue?style=for-the-badge&logo=typescript"></img>
         <img src="https://img.shields.io/badge/REACT-darkblue?style=for-the-badge&logo=react"></img>
         <img src="https://img.shields.io/badge/NEXT-black?style=for-the-badge&logo=next.js"></img>
