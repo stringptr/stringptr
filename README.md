@@ -13,6 +13,10 @@
         <img src="https://img.shields.io/badge/JAVA-yellow?style=for-the-badge&logo=java"></img>
     </div>
     <div class="flex-row">
+        <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"></img>
+        <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css"></img>
+        <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript"></img>
+        <img src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript"></img>
         <img src="https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react"></img>
         <img src="https://img.shields.io/badge/NEXT-black?style=for-the-badge&logo=next.js"></img>
     </div>
