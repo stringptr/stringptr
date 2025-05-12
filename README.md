@@ -4,11 +4,11 @@
 
 ## ✨ About Me
  - 🎓 Undergraduate Science Data Student at **Universitas Sebelas Maret**
- - 💻 Staff of Technology Division at ****BEM FATISDA Universitas Sebelas Maret**
+ - 💻 Staff of Technology Division at **BEM FATISDA Universitas Sebelas Maret**
 
 ## 📚 Currently Learning
-<div class="flex-col">
-    <div align="center" class="flex-row">
+<div align="center" class="flex-col">
+    <div class="flex-row">
         <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"></img>
         <img src="https://img.shields.io/badge/JAVA-yellow?style=for-the-badge&logo=java"></img>
     </div>
